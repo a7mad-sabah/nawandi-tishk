@@ -162,5 +162,5 @@ function App() {
   }, []);
   return <Router>{initialLoading ? <Loader /> : <AppContent />}</Router>;
 }
-
+// هەلۆ
 export default App;
