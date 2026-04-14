@@ -13,7 +13,6 @@ import wta from "../assets/images/wta.jpg";
 import swnna from "../assets/images/swnna.jpg";
 
 import Footer from "../components/Footer";
-// import { div } from "framer-motion/client";
 
 
 export const booksData = [
