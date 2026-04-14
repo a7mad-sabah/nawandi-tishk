@@ -162,7 +162,7 @@
 
 //   return <Router>{initialLoading ? <Loader /> : <AppContent />}</Router>;
 // }
-// کک
+
 // export default App;
 import { useEffect, useState } from "react";
 import {
@@ -320,10 +320,6 @@ function App() {
   }, []);
   return <Router>{initialLoading ? <Loader /> : <AppContent />}</Router>;
 }
-<<<<<<< HEAD
 // هەلۆ
 export default App;
-=======
 
-export default App;
->>>>>>> 70a5289 (tawa)
