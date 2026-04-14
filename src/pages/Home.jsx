@@ -44,10 +44,7 @@ const Home = () => {
     setChatHistory((prev) => [...prev, userMessage, aiReply]);
     setChatInput("");
   };
-    
-
-
-
+    // karwan
   return (
     <section
       dir="rtl"
