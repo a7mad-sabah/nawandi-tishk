@@ -15,11 +15,11 @@ import Loader from "./components/Loader";
 import Cart from "./pages/Cart";
 import Home from "./pages/Home";
 import Books from "./pages/Books";
-import Dlxwazi from "./pages/dlxwazi";
+import Dlxwazi from "./pages/Dlxwazi";
 import About from "./pages/About";
 import BookDetails from "./pages/BookDetails.jsx";
 import Contact from "./pages/Contact";
-import Nusarakan from "./pages/nusarakan.jsx";
+import Nusarakan from "./pages/Nusarakan.jsx";
 import Login from "./pages/Login.jsx";
 import SignUp from "./pages/Sign Up.jsx"
 // 🎬 Motion Wrapper
