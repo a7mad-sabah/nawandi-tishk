@@ -1,4 +1,3 @@
-// components/Loader.jsx
 
 const Loader = () => {
   return (
