@@ -21,7 +21,7 @@ import BookDetails from "./pages/BookDetails.jsx";
 import Contact from "./pages/Contact";
 import Nusarakan from "./pages/Nusarakan.jsx";
 import Login from "./pages/Login.jsx";
-import SignUp from "./pages/Sign Up.jsx"
+import SignUp from "./pages/SignUp.jsx"
 // 🎬 Motion Wrapper
 function PageWrapper({ children }) {
   return (
@@ -84,7 +84,7 @@ function AppContent() {
             />
 
             <Route
-              path="/nusarakan"
+              path="/Nusarakan"
               element={
                 <PageWrapper>
                   <Nusarakan />
