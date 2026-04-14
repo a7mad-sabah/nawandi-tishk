@@ -1,4 +1,3 @@
-// App.jsx
 
 import { useEffect, useState } from "react";
 import {
@@ -20,7 +19,7 @@ import About from "./pages/About";
 import BookDetails from "./pages/BookDetails.jsx";
 import Contact from "./pages/Contact";
 import Nusarakan from "./pages/Nusarakan.jsx";
-import Login from "./pages/Login.jsx";
+import Login from "./pages/login.jsx";
 import SignUp from "./pages/SignUp.jsx"
 // 🎬 Motion Wrapper
 function PageWrapper({ children }) {
