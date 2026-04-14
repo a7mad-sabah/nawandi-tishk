@@ -300,7 +300,7 @@ function AppContent() {
   );
 }
 
-// 🔥 Loader only on first load
+// 🔥 Loader o first load
 function App() {
   const [initialLoading, setInitialLoading] = useState(true);
 
