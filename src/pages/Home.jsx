@@ -44,6 +44,10 @@ const Home = () => {
     setChatHistory((prev) => [...prev, userMessage, aiReply]);
     setChatInput("");
   };
+    
+// hhhh
+
+
 
   return (
     <section
