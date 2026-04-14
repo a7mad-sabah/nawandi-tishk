@@ -160,7 +160,7 @@ function App() {
       return () => window.removeEventListener("load", handleLoad);
     }
   }, []);
-
+// سد
   return <Router>{initialLoading ? <Loader /> : <AppContent />}</Router>;
 }
 
