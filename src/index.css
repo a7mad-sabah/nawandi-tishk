@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Navbar Font */
+@font-face {
+  font-family: "NavbarFont";
+src: url("../public/fonts/navbar.ttf") format("truetype");}
+
+/* Details Font */
+@font-face {
+  font-family: "DetailsFont";
+src: url("../public/fonts/details.ttf") format("truetype");}
+
+body {
+  font-family: "NavbarFont", sans-serif;
+}
